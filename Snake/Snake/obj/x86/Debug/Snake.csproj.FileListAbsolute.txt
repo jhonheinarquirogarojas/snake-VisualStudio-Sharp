@@ -1,0 +1,53 @@
+C:\Users\admin\Desktop\Snake\Snake\obj\x86\Debug\Snake.exe
+C:\Users\admin\Desktop\Snake\Snake\obj\x86\Debug\Snake.pdb
+C:\Users\admin\Desktop\Snake\Snake\bin\Debug\Snake.exe
+C:\Users\admin\Desktop\Snake\Snake\bin\Debug\Snake.pdb
+C:\Users\admin\Desktop\Snake\Snake\obj\x86\Debug\Snake.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Snake\Snake\obj\x86\Debug\Snake.Form1.resources
+C:\Users\admin\Desktop\Snake\Snake\obj\x86\Debug\Snake.frmNosotros.resources
+C:\Users\admin\Desktop\Snake\Snake\obj\x86\Debug\Snake.frmIndex.resources
+C:\Users\admin\Desktop\Snake\Snake\obj\x86\Debug\Snake.Properties.Resources.resources
+C:\Users\admin\Desktop\Snake\Snake\obj\x86\Debug\Snake.reglas.resources
+C:\Users\admin\Desktop\Snake\Snake\obj\x86\Debug\Snake.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\Snake\Snake\bin\Debug\Snake.exe.config
+C:\Users\admin\Desktop\Snake\Snake\obj\x86\Debug\Snake.registrar.resources
+J:\descargas de internet (mirar)\descarga 11-06-2019 SISTEMA COL. TRES CAPAS\ultimo snake\Snake\Snake\bin\Debug\Snake.exe.config
+J:\descargas de internet (mirar)\descarga 11-06-2019 SISTEMA COL. TRES CAPAS\ultimo snake\Snake\Snake\obj\x86\Debug\Snake.exe
+J:\descargas de internet (mirar)\descarga 11-06-2019 SISTEMA COL. TRES CAPAS\ultimo snake\Snake\Snake\obj\x86\Debug\Snake.pdb
+J:\descargas de internet (mirar)\descarga 11-06-2019 SISTEMA COL. TRES CAPAS\ultimo snake\Snake\Snake\bin\Debug\Snake.exe
+J:\descargas de internet (mirar)\descarga 11-06-2019 SISTEMA COL. TRES CAPAS\ultimo snake\Snake\Snake\bin\Debug\Snake.pdb
+J:\descargas de internet (mirar)\descarga 11-06-2019 SISTEMA COL. TRES CAPAS\ultimo snake\Snake\Snake\obj\x86\Debug\Snake.csprojResolveAssemblyReference.cache
+J:\descargas de internet (mirar)\descarga 11-06-2019 SISTEMA COL. TRES CAPAS\ultimo snake\Snake\Snake\obj\x86\Debug\Snake.Form1.resources
+J:\descargas de internet (mirar)\descarga 11-06-2019 SISTEMA COL. TRES CAPAS\ultimo snake\Snake\Snake\obj\x86\Debug\Snake.frmNosotros.resources
+J:\descargas de internet (mirar)\descarga 11-06-2019 SISTEMA COL. TRES CAPAS\ultimo snake\Snake\Snake\obj\x86\Debug\Snake.frmIndex.resources
+J:\descargas de internet (mirar)\descarga 11-06-2019 SISTEMA COL. TRES CAPAS\ultimo snake\Snake\Snake\obj\x86\Debug\Snake.Properties.Resources.resources
+J:\descargas de internet (mirar)\descarga 11-06-2019 SISTEMA COL. TRES CAPAS\ultimo snake\Snake\Snake\obj\x86\Debug\Snake.registrar.resources
+J:\descargas de internet (mirar)\descarga 11-06-2019 SISTEMA COL. TRES CAPAS\ultimo snake\Snake\Snake\obj\x86\Debug\Snake.reglas.resources
+J:\descargas de internet (mirar)\descarga 11-06-2019 SISTEMA COL. TRES CAPAS\ultimo snake\Snake\Snake\obj\x86\Debug\Snake.csproj.GenerateResource.Cache
+C:\Users\JHON\Desktop\Snake\Snake\obj\x86\Debug\Snake.Form1.resources
+C:\Users\JHON\Desktop\Snake\Snake\obj\x86\Debug\Snake.frmNosotros.resources
+C:\Users\JHON\Desktop\Snake\Snake\obj\x86\Debug\Snake.frmIndex.resources
+C:\Users\JHON\Desktop\Snake\Snake\obj\x86\Debug\Snake.Properties.Resources.resources
+C:\Users\JHON\Desktop\Snake\Snake\obj\x86\Debug\Snake.reglas.resources
+C:\Users\JHON\Desktop\Snake\Snake\obj\x86\Debug\Snake.csproj.GenerateResource.Cache
+C:\Users\JHON\Desktop\Snake\Snake\bin\Debug\Snake.exe.config
+C:\Users\JHON\Desktop\Snake\Snake\bin\Debug\Snake.exe
+C:\Users\JHON\Desktop\Snake\Snake\bin\Debug\Snake.pdb
+C:\Users\JHON\Desktop\Snake\Snake\obj\x86\Debug\Snake.exe
+C:\Users\JHON\Desktop\Snake\Snake\obj\x86\Debug\Snake.pdb
+C:\Users\JHON\Desktop\Snake\Snake\obj\x86\Debug\Snake.csprojResolveAssemblyReference.cache
+G:\Snake\Snake\bin\Debug\Snake.exe.config
+G:\Snake\Snake\obj\x86\Debug\Snake.exe
+G:\Snake\Snake\obj\x86\Debug\Snake.pdb
+E:\3 año\programacion lll\Snake\Snake\bin\Debug\Snake.exe.config
+E:\3 año\programacion lll\Snake\Snake\obj\x86\Debug\Snake.exe
+E:\3 año\programacion lll\Snake\Snake\obj\x86\Debug\Snake.pdb
+E:\3 año\programacion lll\Snake\Snake\bin\Debug\Snake.exe
+E:\3 año\programacion lll\Snake\Snake\bin\Debug\Snake.pdb
+E:\3 año\programacion lll\Snake\Snake\obj\x86\Debug\Snake.csprojResolveAssemblyReference.cache
+E:\3 año\programacion lll\Snake\Snake\obj\x86\Debug\Snake.Form1.resources
+E:\3 año\programacion lll\Snake\Snake\obj\x86\Debug\Snake.frmNosotros.resources
+E:\3 año\programacion lll\Snake\Snake\obj\x86\Debug\Snake.frmIndex.resources
+E:\3 año\programacion lll\Snake\Snake\obj\x86\Debug\Snake.Properties.Resources.resources
+E:\3 año\programacion lll\Snake\Snake\obj\x86\Debug\Snake.reglas.resources
+E:\3 año\programacion lll\Snake\Snake\obj\x86\Debug\Snake.csproj.GenerateResource.Cache
